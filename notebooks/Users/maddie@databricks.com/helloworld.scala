@@ -13,7 +13,7 @@ object HelloWorld {
     val sc = new SparkContext(conf)
     
     // do stuff
-    println("Hello, world!")
+    println("Hello, world!!!!")
     
     // terminate spark context
     sc.stop()
